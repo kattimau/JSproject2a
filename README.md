@@ -4,3 +4,15 @@ Projekti 2a (AJAX-sovellus REST APIa hyödyntäen): Elokuva-sovellus
 Tässä projektissa toteutetaan pienimutoinen verkkosovellus, jossa hyödynnetään natiivia JavaScriptiä tiedon hakemiseen palvelimelta AJAXia hyödyntäen. Sovelluksen päämääränä on luoda dynaaminen käyttöliittymä, jonka avulla käyttäjän on mahdollista valita teatteri annetulta listalta ja nähdä siellä esitettyjen elokuvien tiedot. Kun käyttäjä valitsee haluamansa teatterin, sovellus hakee reaaliaikaisia tietoja elokuvista Finnkinon rajapinnalta (näytösajat) sekä OMBD:n rajapinnalta (esimerkiksi elokuvien genret, näyttelijät, yms.) ja esittää ne käyttäjälle.
 
 Alla oleva lähdeluettelo sisältää kaikki tutoriaali- ja ohjesivustot, joiden tietoja ja apuja on hyödynnetty sovelluksen luonnissa tai sen ominaisuuksien inspiraationa. 
+
+Lähteet
+
+Sähköiset
+
+  SheCodes 2023. How to Create a Function to Sort an Array of Movie Names in JavaScript. Viitattu 26.11.2023. https://www.shecodes.io/athena/10215-how-to-create-a-function-to-sort-an-array-of-movie-names-in-javascript
+
+  StackOverflow 2023. Sort array of objects by key values and displaying them on a HTML element. Viitattu 26.11.2023. https://stackoverflow.com/questions/57625553/sort-array-of-objects-by-key-values-and-displaying-them-on-a-html-element
+  
+  W3Schools 2023. JavaScript Sorting Arrays. Viitattu 26.11.2023. https://www.w3schools.com/js/js_array_sort.asp
+
+  
