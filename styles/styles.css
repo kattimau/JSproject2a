@@ -1,0 +1,100 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #101010;
+}
+
+#header {
+    background-color: #222222;
+    color: #fec703;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 2px;
+    color: #e9ffff;
+}
+
+#theater-dropdown {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 13px;
+    background-color: #fec703;
+    color: #000000;
+    padding: 16px 25px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    appearance: none; /* Remove default arrow on some browsers */
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+#theater-dropdown::-ms-expand {
+    display: none; /* Remove arrow in Internet Explorer/Edge */
+}
+
+#theater-dropdown:hover {
+    background-color: #ffd43b;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.movie {
+    border: 1px solid #222222;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    background-color: #222222;
+    color: #e9ffff;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.movie img {
+    width: 100%;
+    border-radius: 5px;
+    filter: grayscale(100%); 
+    transition: filter 0.3s ease-in-out; 
+}
+
+.movie:hover img {
+    filter: grayscale(0%);
+}
+
+.movie details summary {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 13px;
+    background-color: #fec703;
+    color: #000000;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    list-style-type: none; 
+}
+
+.movie details summary:hover {
+    background-color: #ffd43b;
+}
+
+.movie details p {
+    display: none;
+}
+
+.movie details[open] p {
+    display: block;
+}
