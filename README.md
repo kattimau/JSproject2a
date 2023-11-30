@@ -23,6 +23,8 @@ Sähköiset
 
     Stack Overflow 2023. Sort array of objects by key values and displaying them on a HTML element. Viitattu 26.11.2023. https://stackoverflow.com/questions/57625553/sort-array-of-objects-by-key-values-and-displaying-them-on-a-html-element
 
+    W3School 2023. JavaScript Date toLocaleString. Viitattu 27.11.2023. https://www.w3schools.com/jsref/jsref_tolocalestring.asp
+    
     W3Schools 2023. JavaScript Errors. Viitattu 27.11.2023. https://www.w3schools.com/js/js_errors.asp
   
     W3Schools 2023. JavaScript Sorting Arrays. Viitattu 27.11.2023. https://www.w3schools.com/js/js_array_sort.asp
