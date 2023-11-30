@@ -13,6 +13,8 @@ Sähköiset
     
     Finnkino 2023. https://www.finnkino.fi/fi/
     
+    Freecodecamp 2023. How to Fetch Data from an API Using the Fetch API in JavaScript. Viitattu 26.11.2023. https://www.freecodecamp.org/news/how-to-fetch-data-from-an-api-using-the-fetch-api-in-javascript/
+    
     GeeksforGeeks 2023. How to make ajax call from JavaScript. Viitattu 26.11.2023. https://www.geeksforgeeks.org/how-to-make-ajax-call-from-javascript/
     
     OMBd 2023. http://www.omdbapi.com/
@@ -23,6 +25,6 @@ Sähköiset
 
     W3Schools 2023. JavaScript Errors. Viitattu 27.11.2023. https://www.w3schools.com/js/js_errors.asp
   
-    W3Schools 2023. JavaScript Sorting Arrays. Viitattu 26.11.2023. https://www.w3schools.com/js/js_array_sort.asp
+    W3Schools 2023. JavaScript Sorting Arrays. Viitattu 27.11.2023. https://www.w3schools.com/js/js_array_sort.asp
 
   
